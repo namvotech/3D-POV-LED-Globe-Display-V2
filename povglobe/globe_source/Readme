@@ -1,0 +1,9 @@
+RGB POV Globe v1.0
+
+Author: Andreas Fiessler aka fornax
+Website: http://leyanda.de
+
+The software is written for avr-gcc and avrlibc.
+See fusebit settings in hfuse/lfuse/efuse, or set according to the datasheet 
+for JTAG disabled, external full swing oscillator, slowly rising power,
+internal clock divider/8 disabled.
